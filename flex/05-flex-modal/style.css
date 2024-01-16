@@ -46,6 +46,7 @@ body {
   background: lavender;
   width: 42px;
   height: 38px;
+  padding: 5px;
   border-radius: 50%;
   display: flex;
   align-items: center;
